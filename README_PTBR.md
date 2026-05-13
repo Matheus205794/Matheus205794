@@ -18,4 +18,4 @@ de Minecraft
 <br/>
 
 ### Faço e testo Jogos
-Polytoria, Roblox, gdevelop, e scratch
+Polytoria, Roblox, Gdevelop, e Scratch
