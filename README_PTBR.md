@@ -1,8 +1,12 @@
+# Sobre Mim
+## [Descrição]
+Olá a todos, meu nome é Matheus e sou um YouTuber brasileiro. Tento traduzir para todos (em inglês), mas meu inglês não é dos melhores.
+<br/>
 
-## [Description]
-Hi everyone, my name is Matheus, and I'm a Brazilian YouTuber, but I try to translate for everyone (in English), but I'm not good at English.
+## [Minhas Informações]
+### Minhas Cores:
+Azul: `#0000FF`
 <br/>
+Ciano: `#00FFFF`
 <br/>
-## [My Information]
-### My Colors:
-Blue: `#0000FF`
+Água-turquesa: `#00FFFF`
