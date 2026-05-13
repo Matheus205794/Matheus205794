@@ -11,5 +11,5 @@ Ciano: `#00FFFF`
 Água-turquesa: `#00FFFF`
 <br/>
 ### Crio videos/Animações: de Minecraft
-<br/>
+
 ### Faço e testo Jogos: Polytoria, Roblox, Gdevelop, e Scratch
