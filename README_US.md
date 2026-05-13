@@ -11,5 +11,5 @@ Cyan: `#00FFFF`
 Aqua-Turquoise: `#00FFFF`
 <br/>
 ### I create Minecraft videos/animations
-<br/>
+
 ### I make and test games: Polytoria, Roblox, Gdevelop, and Scratch
