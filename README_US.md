@@ -3,7 +3,7 @@
 Hi everyone, my name is Matheus and I'm a Brazilian YouTuber. I try to translate for everyone (in English), but my English isn't the best.
 <br/>
 ## [My Information]
-### My Colors:
+### My Favorite Colors:
 Blue: `#0000FF`
 <br/>
 Cyan: `#00FFFF`
